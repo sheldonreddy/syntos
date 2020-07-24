@@ -1,0 +1,5 @@
+flask
+py-espeak-ng
+pyttsx3
+pyaudio
+speech_recognition
